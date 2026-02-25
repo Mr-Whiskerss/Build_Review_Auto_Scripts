@@ -456,7 +456,7 @@ SOFTWARE.
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/build-review-scripts/issues) page
+1. Check the [Issues](https://github.com/Mr-Whiskerss/build-review-scripts/issues) page
 2. Open a new issue with:
    - OS version and build number
    - Script version
